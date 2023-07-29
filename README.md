@@ -47,15 +47,15 @@ Each of these tables consists of data for zipcode of US. In order to join releva
 
 The columns we chose for our analysis largely had to do with how they relate to our objective. We needed to understand what factors affected the income of an individual and how his income affects his living conditions. DP03 gave us data on the income and income characteristics for the population and DP05 was about population characteristics and ethnicity. We used S1501 to understand the levels of educational attainment and of how many people in a city were educated up to high school, college and undergrad level. S2506 gave us two columns that informed us the mortgaged houses and what the median value was. <be>
 
-Part 1
+Question 1
 ![image](https://github.com/satvik96/Community-Needs-Index-/assets/13771072/9aa4ace9-867f-4bf5-8649-c403641c4e09)
 
 
-Part 2
+Question 2
 ![image](https://github.com/satvik96/Community-Needs-Index-/assets/13771072/14d0718a-8170-4089-b7cf-e0d4ed029e2f)
 
 
-Part 3 and 4
+Question 3 and 4
 ![image](https://github.com/satvik96/Community-Needs-Index-/assets/13771072/8a7023e0-8c56-4b66-8da4-6066ae1986fa)
 
 
