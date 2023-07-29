@@ -46,3 +46,8 @@ S2506       Financial characteristics for housing units
 Each of these tables consists of data for zipcode of US. In order to join relevant columns from these tables, we use Zip code as the primary key to join the above tables to create a consolidated dataset.
 
 The columns we chose for our analysis largely had to do with how they relate to our objective. We needed to understand what factors affected the income of an individual and how his income affects his living conditions. DP03 gave us data on the income and income characteristics for the population and DP05 was about population characteristics and ethnicity. We used S1501 to understand the levels of educational attainment and of how many people in a city were educated up to high school, college and undergrad level. S2506 gave us two columns that informed us the mortgaged houses and what the median value was. <br>
+
+
+![image](https://github.com/satvik96/Community-Needs-Index-/assets/13771072/14d0718a-8170-4089-b7cf-e0d4ed029e2f)
+
+
